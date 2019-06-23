@@ -1,2 +1,2 @@
 # microposts 
-<h3>a fun side project</h3>
+<h3><em>a fun side project<em></h3>
